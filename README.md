@@ -1,29 +1,62 @@
 ![Header](https://github.com/fedor99999/fedor99999/blob/main/assets/Header.png)
 
+---
+
 ## Обо мне: Прошел курс от Skillfactory "Тестировщик-автоматизатор на Python". Также прошел курс на Stepik "Тестирование ПО с нуля. Теория + Практика (автор: Артем Русов)"
 
-### Тестирование веб-приложений:
-![Flutter](https://img.shields.io/badge/-DevTools-f86036?style=for-the-bange&logo=DevTools&logoColor=ff0000)
-![DevTools](https://camo.githubusercontent.com/25f6f3de7ca12c8c300b6f0a7b37c48c1e6176ded2f38d770a9d5e9b9d24fce7/68747470733a2f2f64333377756272666b69306c36382e636c6f756466726f6e742e6e65742f333862356339353361343636373336363638356435356462353564303537633836646231666335342f61306664632f7374617469632f61636165366232346439343033343736363163613930316561303766343763312f6368726f6d652d6465762d6c6f676f2d69636f6e2e706e67)
-![Postman](https://www.testautomatisierung.org/wp-content/uploads/postman-300x183.jpg)
-![VSCode](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Visual_Studio_Code_Insiders_1.36_icon.svg/512px-Visual_Studio_Code_Insiders_1.36_icon.svg.png)
-
-### Тестирование мобильных приложений:
-![AndroinStudio](https://yandex.ru/images/search?from=tabbar&img_url=http%3A%2F%2Fcamo.githubusercontent.com%2F2c79720a1406e07c1d6e12a045f3ecc1153ad5f6167bd3f8b938e7a7d30831d0%2F68747470733a2f2f692e696d6775722e636f6d2f635076764644502e706e67&lr=39&pos=2&rpt=simage&text=android%20studio)
-![xCode](https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Frozetked.me%2Fimages%2Fuploads%2FT1GGg0qCUn0f.png&lr=39&pos=2&rpt=simage&text=xcode)
-
-### Работа с данными:
-![pgAdmin](https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Ficon-library.com%2Fimages%2Fpostgres-icon%2Fpostgres-icon-12.jpg&lr=39&pos=9&rpt=simage&text=pgadmin4%20%22%D0%A1%D0%BB%D0%BE%D0%BD%22)
-![DBeaver](https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fimage.pngaaa.com%2F676%2F7258676-middle.png&lr=10502&pos=12&rpt=simage&text=DBEaver)
-![mySQL](https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fwww.shareicon.net%2Fdownload%2F2015%2F08%2F10%2F82874_mysql_4096x4096.png&lr=39&pos=1&rpt=simage&text=mysql)
-![TablePlus](https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F3053%2FPNG%2F512%2Ftableplus_alt_macos_bigsur_icon_189670.png&lr=39&pos=8&rpt=simage&text=tableplus)
+---
 
 ### Тестовая документация:
-![JIRA](https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fdatalligence.ai%2Fwp-content%2Fuploads%2F2023%2F09%2FJira.png&lr=39&pos=24&rpt=simage&text=jira)
-![YouTrack](https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F8%2F8d%2FYouTrack_Icon.svg%2F1024px-YouTrack_Icon.svg.png&lr=39&pos=1&rpt=simage&text=youtrack)
-![DoQA](https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fyt3.googleusercontent.com%2Fd96A-Kup6aWNGC7cZivxDFQm9PYCd64_Hmcdvh8-qg4IkZt3ot_dKbAvNRUp6o6NbV-NK2FfBQ%3Ds900-c-k-c0x00ffffff-no-rj&lr=39&pos=2&rpt=simage&text=DoQA)
-![qase](https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fwww.rma.ru%2Fupload%2Fresize_cache%2Fiblock%2Fba0%2F600_600_0fb4dc8017065f8161a3a0b56d80359a2%2Fba0fb1a4cbbf90b4c72d639f011c0421.png&lr=39&pos=6&rpt=simage&text=qase)
-![testrail](https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fimages.g2crowd.com%2Fuploads%2Fproduct%2Fimage%2Fsocial_landscape%2Fsocial_landscape_149856dfd77f6f9b6f1669b0affcb373%2Ftestrail.png&lr=39&pos=3&rpt=simage&text=testrail)
-![figma](https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F3%2F33%2FFigma-logo.svg%2F800px-Figma-logo.svg.png&lr=39&pos=2&rpt=simage&text=figma)
 
-Follow Me
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="JIRA" alt="JIRA" width="40" height="40"/>&nbsp
+  <img src="https://cdn.tlgbot.ru/i/04/3a/043aae34cbc1435a79a2da0ffa12ff78.jpg" title="DoQA" alt="DoQA" width="40" height="40"/>&nbsp
+  <img src="https://codahosted.io/packs/21236/unversioned/assets/LOGO/ba1091c59bab89cd2fd0f289622731fe16113d7b00905abe64759c313a4b73b76c1b0426076ed76cb74752234c734131df46992d5b8b48fc13e264240e4f7119f736cfeb64df36ded54b5cbf6198b9cadedf18dd0cac5c7dbcd16e6336c29363cd1292ba" title="testrail" alt="tetstrail" width="40" height="40"/>&nbsp
+  <img src="https://mloads.com/uploads/posts/2024-11/youtrack.webp" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp
+  <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp
+</div>
+
+---
+
+### Тестирование веб-приложений:
+
+<div>
+  <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="DevTools" alt="devtools" width="40" height="40"/>&nbsp
+  <img src="https://www.testautomatisierung.org/wp-content/uploads/postman-300x183.jpg" title="Postman" alt="postman" width="40" height="40"/>&nbsp
+  <img src="https://sun9-72.userapi.com/impf/c630821/v630821624/17578/yRPELJvqjIE.jpg?size=604x400&quality=96&sign=740c891c9e45d2a3d16b2040f9589081&type=album" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp
+</div>
+
+---
+
+### Тестирование мобильных приложений:
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="xcode" alt="xcode" width="40" height="40"/>&nbsp
+  <img src="https://user-images.githubusercontent.com/15472/41327135-e4bf090c-6eca-11e8-9b76-032e8e2b0707.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
+</div>
+
+---
+
+### Работа с данными:
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mySQL" alt="mySQL" width="40" height="40"/>&nbsp
+  <img src="https://icon-library.com/images/postgres-icon/postgres-icon-12.jpg" title="pgAdmin" alt="pgAdmin" width="40" height="40"/>&nbsp
+  <img src="https://image.pngaaa.com/676/7258676-middle.png" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp
+  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/tableplus_alt_macos_bigsur_icon_189670.png" title="TablePlus" alt="TablePlus" width="40" height="40"/>&nbsp
+</div>
+
+---
+
+### Связь со мной:
+
+  <div id="badges">
+    <a href="https://vk.com/id133181888" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/440px-VK_Compact_Logo_%282021-present%29.svg.png" width="40" height="40" alt="VK" />
+    </a>
+    <a href="https://t.me/Putin_294" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
+    </a>
+  </div>
