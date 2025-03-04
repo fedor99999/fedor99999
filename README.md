@@ -1,9 +1,8 @@
 ![Header](https://github.com/fedor99999/fedor99999/blob/main/assets/Header.png)
 
-Abount me
+## Обо мне: Прошел курсы от Skillfactory "Тестировщик-автоматизатор на Python". ТАкже прошел курс на Stepik "Тестирование ПО с нуля. Теория + Практика (автор: Артем Русов)"
 
-Completed the courses
-
-Launguages and Tools
+## Launguages and Tools
+![Flutter](https://img.shields.io/badge/-Flutter-030000?styles=for-the-badge&logo=flutter&logocolor=eeed2b)
 
 Follow Me
