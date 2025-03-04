@@ -45,8 +45,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mySQL" alt="mySQL" width="40" height="40"/>&nbsp
   <img src="https://icon-library.com/images/postgres-icon/postgres-icon-12.jpg" title="pgAdmin" alt="pgAdmin" width="40" height="40"/>&nbsp
   <img src="https://image.pngaaa.com/676/7258676-middle.png" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp
-  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/tableplus_alt_macos_bigsur_icon_189670.png" title="TablePlus" alt="TablePlus" width="40" height="40"/>&nbsp
-</div>
+  </div>
 
 ---
 
