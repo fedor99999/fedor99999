@@ -58,4 +58,10 @@
     <a href="https://t.me/Putin_294" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
+    <a href="https://rostov.hh.ru/resume/e51a015fff0c818f410039ed1f7a4851776f74" target="_blank">
+      <img src="https://sun9-33.userapi.com/impg/QYc1pfBO-VVIbesG2FZhc5tji1EK2iw8x6kEhg/gHhONoYWQiE.jpg?size=604x604&quality=96&sign=4ac9868c1880d9f1b1bb4db25ee3eaa2&type=album" width="40" height="40" alt="HH" />
+    </a>
+    <a href="https://career.habr.com/fedor_61" target="_blank">
+      <img src="https://catalogueofsites.ru/wp-content/uploads/2023/02/22844178b605e7ba7089f-800x445.jpg" width="40" height="40" alt="HabrCareer" />
+    </a>
   </div>
